@@ -1,1 +1,41 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+}
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+article {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer {
+    padding: 15px;
+}
+
+.desc {
+    margin-left: 25px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#lastParagraph {
+    margin-bottom: 25px;
+}
+
